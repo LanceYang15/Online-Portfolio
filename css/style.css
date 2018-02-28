@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+header .container{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+  height: 200px;
+  position: relative;
+}
+
+header h3{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+header h4{
+  color: white;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+nav a:hover{
+  background-color: #f4f4f4;
+}
+
+#boxes{
+  margin-top: 20px;
+}
+
+#boxes .container{
+  height: 200px;
+  position: relative;
+}
+
+
+#boxes .container .box{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+}
+
