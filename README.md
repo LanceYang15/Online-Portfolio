@@ -6,3 +6,4 @@ Online webpage where I post my projects that I have created, tell you about myse
 * Html 5
 * Bootstrap 4
 * CSS
+* Javascript
